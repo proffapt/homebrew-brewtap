@@ -1,8 +1,8 @@
 class CodeRunner < Formula
   desc "All-in-one command-line utility to execute code files"
   homepage "https://github.com/proffapt/code-runner"
-  url "https://github.com/proffapt/code-runner/archive/refs/tags/v1.1.7.tar.gz"
-  sha256 "36da307fc1087b3aef82dad99207ae2a8cd5fd6ad34ee24df6aa87db20285893"
+  url "https://github.com/proffapt/code-runner/archive/refs/tags/v1.1.8.tar.gz"
+  sha256 "1280f7cd7d065ab06fbb466264f8d25937ee61c181a45e9c08947b467f19bcf1"
   license "BSD-2-Clause"
 
   def install
