@@ -1,4 +1,4 @@
-class ReWRK < Formula
+class Rewrk < Formula
   desc "Reworked wrk - Managed HTTP benchmarking tool"
   homepage "https://github.com/proffapt/rewrk"
   url "https://github.com/proffapt/rewrk/archive/refs/tags/v0.1.0.tar.gz"
